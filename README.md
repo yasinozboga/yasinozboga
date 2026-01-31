@@ -1,5 +1,5 @@
 ><h1 align="center">Hi 👋, I'm @yasinozboga (Yasin Özboğa)</h1>
-<h3 align="center">I have been actively involved in programming for more than two years. My passion for this field started before my high school education. My goal is to improve myself and improve what I have learned.</h3>
+<h3 align="center">I have been actively involved in programming for more than two years. My goal is to improve myself and improve what I have learned.</h3>
 
 - 🔭 I'm currently working **software technologies also i improving my software knowledge. I'm designing compatibles with users websites with JavaScript, TypeScript and React Technologies.**
 
